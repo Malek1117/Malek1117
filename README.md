@@ -7,8 +7,6 @@ I'm Shahnawaz Malek and I'm Full Stack Web Developer, a passionate coder, and ca
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=00B2DF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience"></a>
 </p>
 
-<a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/8e4ccc3cd0a9b3c52f844a8f7410d6ad607adc843442d3ef656b003bf26cb116/68747470733a2f2f636f696e6473797a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f313538343032333739352e676966" /></a>
-
 
 ## Tech Stack
 
