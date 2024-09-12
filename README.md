@@ -1,10 +1,10 @@
 ## Hi there 👋
 ### Glad to see you here! 🤩
 
-I'm Shahnawaz Malek and I'm Full Stack Web Developer, a passionate coder, and capable of writing efficient code using MERN Stack.
+I'm Shahnawaz Malek, a Front-end Developer, a passionate coder, and capable of writing efficient and scalable code.
 
 <p align="center">
-    <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=00B2DF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience"></a>
+    <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=00B2DF&center=true&lines=Front+End+Web+Developer;2.5+Years+of+Coding+Experience"></a>
 </p>
 
 
